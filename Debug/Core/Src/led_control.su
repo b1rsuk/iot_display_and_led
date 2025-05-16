@@ -1,0 +1,2 @@
+../Core/Src/led_control.c:11:6:handle_led_off	16	static
+../Core/Src/led_control.c:16:6:process_led_control	96	static

@@ -1,0 +1,5 @@
+http_parser.c:3:6:http_method_is	3
+http_parser.c:9:6:is_path_match	3
+http_parser.c:15:6:is_query_path	3
+http_parser.c:20:5:parse_http_request	1
+http_parser.c:39:6:extract_query_param	1

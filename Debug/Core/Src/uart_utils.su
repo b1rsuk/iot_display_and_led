@@ -1,0 +1,5 @@
+../Core/Src/uart_utils.c:15:6:is_end_of_header	4	static
+../Core/Src/uart_utils.c:23:6:is_rx_index_valid	16	static
+../Core/Src/uart_utils.c:27:19:uart_wait_for_byte	16	static
+../Core/Src/uart_utils.c:31:6:http_buffer_add_byte	16	static
+../Core/Src/uart_utils.c:36:6:uart_receive_http_byte	16	static

@@ -1,0 +1,6 @@
+../Core/Src/http.c:18:13:handle_root_request	8	static
+../Core/Src/http.c:22:13:handle_send_text	56	dynamic
+../Core/Src/http.c:37:13:handle_get_request	16	static
+../Core/Src/http.c:46:13:handle_post_request	16	static
+../Core/Src/http.c:51:13:handle_http_header_end	352	static
+../Core/Src/http.c:71:6:http_handler	8	static

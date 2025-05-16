@@ -1,0 +1,14 @@
+picohttpparser.c:105:20:findchar_fast	1
+picohttpparser.c:134:20:get_token_to_eol	22
+picohttpparser.c:197:20:is_complete	9
+picohttpparser.c:245:20:parse_token	6
+picohttpparser.c:280:20:parse_http_version	11
+picohttpparser.c:298:20:parse_headers	19
+picohttpparser.c:355:20:parse_request	25
+picohttpparser.c:401:5:phr_parse_request	4
+picohttpparser.c:429:20:parse_response	16
+picohttpparser.c:474:5:phr_parse_response	4
+picohttpparser.c:500:5:phr_parse_headers	4
+picohttpparser.c:530:12:decode_hex	7
+picohttpparser.c:543:9:phr_decode_chunked	36
+picohttpparser.c:678:5:phr_decode_chunked_is_in_data	1

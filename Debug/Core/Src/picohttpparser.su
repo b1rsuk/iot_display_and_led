@@ -1,0 +1,14 @@
+../Core/Src/picohttpparser.c:105:20:findchar_fast	24	static
+../Core/Src/picohttpparser.c:134:20:get_token_to_eol	32	static
+../Core/Src/picohttpparser.c:197:20:is_complete	32	static
+../Core/Src/picohttpparser.c:245:20:parse_token	40	static
+../Core/Src/picohttpparser.c:280:20:parse_http_version	24	static
+../Core/Src/picohttpparser.c:298:20:parse_headers	48	static
+../Core/Src/picohttpparser.c:355:20:parse_request	40	static
+../Core/Src/picohttpparser.c:401:5:phr_parse_request	72	static
+../Core/Src/picohttpparser.c:429:20:parse_response	40	static
+../Core/Src/picohttpparser.c:474:5:phr_parse_response	64	static
+../Core/Src/picohttpparser.c:500:5:phr_parse_headers	48	static
+../Core/Src/picohttpparser.c:530:12:decode_hex	16	static
+../Core/Src/picohttpparser.c:543:9:phr_decode_chunked	88	static
+../Core/Src/picohttpparser.c:678:5:phr_decode_chunked_is_in_data	16	static

@@ -1,0 +1,5 @@
+../Core/Src/http_parser.c:3:6:http_method_is	24	static
+../Core/Src/http_parser.c:9:6:is_path_match	24	static
+../Core/Src/http_parser.c:15:6:is_query_path	24	static
+../Core/Src/http_parser.c:20:5:parse_http_request	72	static
+../Core/Src/http_parser.c:39:6:extract_query_param	32	static
