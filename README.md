@@ -1,6 +1,6 @@
 # Project with STM32F103C8
 ## Project Description
-This project demonstrates a Pong game running on an STM32 microcontroller.
+This project demonstrates an LED/display controller running on an STM32 microcontroller and a Wi-Fi module.
 
 ## Main Components
 ### Microcontroller
